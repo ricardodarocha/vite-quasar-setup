@@ -1,14 +1,6 @@
 # vite-quasar-setup
 Easy-peasy repository to clone and start programming with Vite + Vue + Quasar
 
-# Doc
-# Srv
-# App
-
-# Srv
-
-### Criação do Servidor com Rust
-
 # App
 
 ### Criação da aplicação com Vue + Quasar
