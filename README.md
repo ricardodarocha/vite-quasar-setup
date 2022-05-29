@@ -89,3 +89,8 @@ npm run dev
 ### Outras informações 
 
 Acesse a documentação de ícones https://fonts.google.com/icons?selected=Material+Icons
+
+Acessar a documentação do Quasar e verificar alguns templates
+https://quasar.dev/layout/gallery
+https://quasar.dev/layout/header-and-footer
+https://quasar.dev/layout/drawe
