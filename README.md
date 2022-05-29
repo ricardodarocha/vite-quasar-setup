@@ -49,7 +49,6 @@ myApp.use(Quasar, {
 
 myApp.mount('#app')
 ```
-Acesse a documentação de ícones https://fonts.google.com/icons?selected=Material+Icons
 
 Vite.config.js
 ```js
@@ -86,3 +85,7 @@ $warning   : #f7924f
 ```Shell
 npm run dev 
 ```
+
+### Outras informações 
+
+Acesse a documentação de ícones https://fonts.google.com/icons?selected=Material+Icons
