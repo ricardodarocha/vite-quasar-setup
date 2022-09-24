@@ -94,3 +94,21 @@ Acessar a documentação do Quasar e verificar alguns templates
 https://quasar.dev/layout/gallery
 https://quasar.dev/layout/header-and-footer
 https://quasar.dev/layout/drawe
+
+
+Preparando para tauri
+
+```Shell
+npm i -D vite-plugin-tauri @tauri-apps/cli
+
+//package.json
+//Scripts
++   "vite-tauri": "vite-tauri",
+
+rustc --version
+rustup update
+
+npm run vite-tauri dev
+npm run vite-tauri build
+
+```
